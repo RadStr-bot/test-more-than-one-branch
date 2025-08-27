@@ -1,18 +1,20 @@
 {
-  "iri": "42563612-8887-422c-a8c2-583b0fdc5e60",
+  "iri": "42563612-8887-422c-a8c2-583b0fdc5e60-branch2",
   "types": [
     "http://dataspecer.com/resources/local/package"
   ],
   "userMetadata": {
-    "label": {},
+    "label": {
+      "cs": "new name to test git clone refactoring"
+    },
     "description": {}
   },
   "metadata": {
-    "creationDate": "2025-08-20T17:02:57.279Z",
-    "modificationDate": "2025-08-20T17:03:00.046Z"
+    "creationDate": "2025-08-27T16:03:33.126Z",
+    "modificationDate": "2025-08-27T16:04:14.342Z"
   },
   "_version": 1,
   "_exportVersion": 1,
-  "_exportedAt": "2025-08-21T00:02:53.589Z",
+  "_exportedAt": "2025-08-27T16:04:31.273Z",
   "_exportedBy": "http://localhost:3100"
 }
